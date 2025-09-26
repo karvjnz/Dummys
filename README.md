@@ -49,6 +49,19 @@ Hi, I’m **Karthik Manoharan** 👋
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karvjnz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karvjnz&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>  
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karvjnz&theme=tokyonight" alt="GitHub Streak" height="165"/>  
+</p>  
+
+---
+
 ## 📫 Connect With Me  
 
 - 🌐 [LinkedIn](https://linkedin.com/in/karvj)  
