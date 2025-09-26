@@ -1,0 +1,39 @@
+# short intro
+# Certifications
+# Areas of Expertise
+# Tools I use
+# Featured Project
+# Featured Articles & Post
+# Currently Exploring
+# Let's Connet
+# Tips: Type it in the word - chatgpt and copy paste in git
+
+# create a repo for case study project
+# example: ETRM-Tax-Reporting-casestudy and add a sort description of the project
+
+# Populate the Project README with Project Info
+There are many ways to structure this
+Project Contect - Backgroud & problem
+What I did - step-by-step approach
+Tools and methods used
+Key Deliverables - docs, diagrams, mockups
+Outcomes - what the solution achieved
+Key Learning and reflections
+if it is a team project, call out your specific contributions
+
+Add documents and images to your project repo:
+PDF's, diagrams, mockups etc
+
+Update Linkedin:
+1. Add github portfolio to Featured Section
+  On your linkedin profile, edit the Featured Section
+  add a link to your Github Profile
+2. Add your PRojecs to the Projects Section
+   If you don't see a Project section, add if from Add Profile Section
+   There are many ways to structure this.
+   Project Context, WHat I didm Key Outcomes, Tools used etc.,
+4. How to add files in GitHub
+   Go to yout project repo - Clik Upload files, choose your files - commit changes
+   to upload image, Take a screenshot using snipping tool and copy/paste directly in the README
+   GitHub generates Markdown line for the image automatically
+   Resize and adjust width/height values.
