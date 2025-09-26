@@ -29,10 +29,17 @@ Hi, I’m **Karthik Manoharan** 👋
 - Loan Syndication, Credit Underwriting, KYC, Payment Systems (SWIFT, RTGS, SEPA, etc.)  
 
 **Tools & Technology**  
-- Atlassian (JIRA, Confluence), Azure DevOps, CI/CD Pipelines  
-- SQL (Oracle, MySQL), Python, VBA Macros, UiPath RPA  
-- API Testing (SOAP, REST, Postman), WSO2  
-- HTML, CSS, JavaScript, Git, Bitbucket  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![UiPath](https://img.shields.io/badge/-UiPath-FF6F00?logo=uipath&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
 **Data & Testing**  
 - Test Management (ST/SIT/UAT/Regression), User Stories, Automation  
@@ -43,9 +50,9 @@ Hi, I’m **Karthik Manoharan** 👋
 
 ## 📜 Certifications  
 
-- **CBAP-IIBA Certified Business Analyst**  
-- **ISTQB (ISEB) Testing Foundation**  
-- Agile Business Analysis, Scrum Master Training  
+![CBAP](https://img.shields.io/badge/CBAP-IIBA-blue)  
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-green)  
+![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-orange)  
 
 ---
 
